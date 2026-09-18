@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**amolgupta-cloud/amolgupta-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science & Artificial Intelligence student interested in data analysis, problem-solving, and learning new technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Pandas
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Jupyter Notebook
+
+### 📊 Projects
+
+**Excel Sales Performance Dashboard**  
+An Excel dashboard analyzing revenue, orders, products, regions, and salesperson performance.
+
+**Netflix Data Analysis**  
+A Python and Pandas project exploring Netflix movies and TV shows, including ratings, countries, release years, directors, and movie durations.
+
+**SQL Sales Analysis**  
+A SQL project analyzing product performance, revenue, categories, cities, and monthly sales trends.
+
+### 🌱 Currently Learning
+
+I'm continuously improving my skills in data analysis, visualization, SQL, Python, and Power BI through hands-on projects.
+
+### 📫 Let's Connect
+
+I'm open to learning opportunities, internships, and projects related to data analysis and data science.
